@@ -1,0 +1,21 @@
+2020-09-04 12:52:34,011 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-09-04 12:52:34,011 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-09-04 12:52:34,012 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-09-04 12:52:34,012 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-09-04 12:52:34,012 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /Users/noah/Documents/Keynotes News/client/config/keynotesnews_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=87808485-dd82-4bd7-bbc6-eaf2adf881a5
+- uuid=8b6f97bf-046b-41f3-9a30-008d9899df65
+- client_session_id=c2ada01b-9ba1-4a4e-9dd3-68e2f57608b8
+- device_id=android-e3b3e11bb0ec174f
+2020-09-04 12:52:34,012 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-09-04 12:52:34,687 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-09-04 12:52:35,031 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-09-04 12:52:35,032 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'keynotesnews'!
+2020-09-04 12:52:35,032 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/noah/Documents/Keynotes News/client/config/keynotesnews.checkpoint
+2020-09-04 12:52:38,580 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-09-04 12:52:38,580 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/Users/noah/Keynotes/image.png' is not uploaded.
+2020-09-04 12:52:58,942 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-09-04 12:52:58,943 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/Users/noah/Keynotes/image.png' is not uploaded.
+2020-09-04 13:23:35,119 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/noah/Documents/Keynotes News/client/config/keynotesnews.checkpoint
+2020-09-04 13:23:35,143 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31

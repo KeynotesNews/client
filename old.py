@@ -53,6 +53,9 @@ else:
     post_result = api.update_status(status=tweet, media_ids=[media.media_id])   
     print(colour.bold, colour.green, 'TWEETED:', colour.end, colour.green, tweet, colour.end)
 
+
+    
+
 #Notification
 
 new_notification = onesignal_sdk.Notification(post_body={
