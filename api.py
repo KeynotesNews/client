@@ -3,7 +3,7 @@ twitterConsumerSecret = 'wNj8VhyGw3rID6HWtSC9imavNWjDDfAsDm3aISnd3cyuaU20lA'
 twitterAccessKey = '896644687301414913-ljdtlGkkxqqDFgEByU04mk1TfOlnW0r'
 twitterAccessSecret = 'HRfVQw0BLt8N7lRgA1XmQuwbo60vQ5qPfmzTmEfxtgd7F'
 
-oneSignalUserKey = 'abc'
+oneSignalUserKey = 'abd'
 oneSignalAppKey = 'abc'
 oneSignalAppID = 'abc'
 

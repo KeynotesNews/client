@@ -75,7 +75,7 @@ while True:
         screenshot.paste(circleLogo, (1300,950), circleLogo)
         screenshot.save('/Users/noah/Keynotes/image.png',optimize=True,quality=100)
         print('Saved image')
-    
+    '''
     for attempt in range(3):
         try:
             twitterImage = twitter.media_upload('/Users/noah/Keynotes/image.png')
@@ -85,7 +85,7 @@ while True:
         except:
             print('Error sending Tweet')
             continue
-    '''
+    
 
     image = '/Users/noah/Keynotes/image.png'
     for attempt in range(3):
